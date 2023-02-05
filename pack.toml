@@ -1,0 +1,13 @@
+name = "Quality Quilt"
+author = "soradotwav"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "df1c9acff931949ca9d1d7d3cc6d31d8bde1fd69b613a0b33cadbaffe2529c2b"
+
+[versions]
+minecraft = "1.19.2"
+quilt = "0.17.11"
