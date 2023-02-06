@@ -43,7 +43,120 @@ You need [Java 17 or higher](https://prismlauncher.org/wiki/getting-started/inst
 6. Launch the newly installed profile
 
 7. If you see a black Mojang loading screen you've installed everything correctly!
-## List of all used Mods
+## List of all Mods
 
-Will be added soon!
+This list is structured alphabetically with any notable information for each mod attached to it in addition to its links.
+
+- 3D Skin Layers
+- Additional Additions
+- Adorn
+- Advancement Plaques
+- Animatica
+- Appleskin
+- Artifacts
+- AttributeFix
+- Bclib
+- Better Advancements
+- Better End
+- Better F3
+- Better Mount HUD
+- Better Nether
+- Better Third Person
+- Blur
+- Botania
+- Campanion
+- Capes
+- Charm
+- Charmonium
+- CIT Resewn
+- CleanCut
+- Cloth Config
+- ChoiceTheorem's Overhauled
+- ChoiceTheorem's Overhauled Waystone Compatibility
+- Chunky
+- Crops Love Rain
+- Custom Entity Models
+- Dangerous Stonecutters
+- Dark Loading Screen
+- Deeper Darker
+- Diagonal Fences
+- Discord Integration
+- Ecologics
+- End Remastered
+- Entity Texture Features
+- Entity Culling
+- Equipment Compare
+- Fabric TPA
+- Falling Leaves
+- Farmers Delight
+- Ferritecore
+- Forge Config API Port
+- Friends and Foes
+- GeckoLib
+- Go Fish
+- Iceberg
+- Immersive Structures
+- Iris
+- Just Enough Items (JEI)
+- LazyDFU
+- Legendary Tooltips
+- Lithium
+- Lovely Snails
+- Malum
+- Macaw's Mods 
+    - Macaw's Bridges
+    - Macaw's Doors
+    - Macaw's Fences
+    - Macaw's Paintings
+    - Macaw's Paths
+    - Macaw's Roofs
+    - Macaw's Trapdoors
+    - Macaw's Windows
+- Memory Leak Fix
+- Modmenu
+- More Chat History
+- Naturalist
+- No Chat Reports
+- Not Enough Animations
+- Nyf's Spiders
+- Oh The Biomes You'll Go
+- Ok Zoomer
+- owo Lib
+- Patchouli
+- Paxi
+- Presence Footsteps
+- Prism
+- Puzzles Lib
+- Qu Enchantments
+- Quilt Fabric API
+- Quilt Kotlin Libraries
+- Sleepwarp
+- Snow Under Trees
+- Sodium
+- Starlight
+- Structory
+- Tax Free Levels
+- TerraBlender
+- Terralith
+- The Graveyard
+- This Rocks!
+- Traveler's Backpack
+- Trinkets
+- Twilight Forest
+- Vanilla Refresh
+- Victus
+- Visual Workbench
+- Windchimes
+- Wraith Waystones
+- Xaeros World Map
+- Yet Another Config Lib
+- Yung's Mods
+    - Yung's API
+    - Yung's Better Desert Temples
+    - Yung's Better Dungeons
+    - Yung's Better Mineshafts
+    - Yung's Better Ocean Monuments
+    - Yung's Better Strongholds
+    - Yung's Better Witch Huts
+    - Yung's Extras
 
