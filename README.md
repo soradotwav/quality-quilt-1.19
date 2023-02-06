@@ -61,7 +61,7 @@ If possible, the following links will lead to the mods respective Modrinth page.
 
 <details><summary>Content Mods</summary>
 
-- [Additional Additions](https://modrinth.com/mod/addadd)
+- [Additional Additions](https://modrinth.com/mod/addadd) 
 - [Adorn](https://modrinth.com/mod/adorn)
 - [Artifacts](https://modrinth.com/mod/artifacts)
 - [BetterEnd](https://modrinth.com/mod/betterend)
@@ -79,10 +79,13 @@ If possible, the following links will lead to the mods respective Modrinth page.
 - [Malum](https://modrinth.com/mod/malum-quilt)
 - Macaw's mods
     - [Macaw's Bridges](https://www.curseforge.com/minecraft/mc-mods/macaws-bridges)
+    	- [Macaw's Bridges - Oh The Biomes You'll Go](https://modrinth.com/mod/macaws-bridges-oh-the-biomes-youll-go) 🆕
     - [Macaw's Doors](https://www.curseforge.com/minecraft/mc-mods/macaws-doors)
     - [Macaw's Fences and Walls](https://www.curseforge.com/minecraft/mc-mods/macaws-fences-and-walls)
+    	- [Macaw's Fences - Oh The Biomes You'll Go](https://modrinth.com/mod/macaws-fences-oh-the-biomes-youll-go) 🆕
     - [Macaw's Paintings](https://www.curseforge.com/minecraft/mc-mods/macaws-paintings)
     - [Macaw's Paths and Pavings](https://www.curseforge.com/minecraft/mc-mods/macaws-paths-and-pavings)
+    	- [Macaw's Roofs - Oh The Biomes You'll Go](https://modrinth.com/mod/macaws-roofs-oh-the-biomes-youll-go) 🆕
     - [Macaw's Roofs](https://www.curseforge.com/minecraft/mc-mods/macaws-roofs)
     - [Macaw's Trapdoors](https://www.curseforge.com/minecraft/mc-mods/macaws-trapdoors)
     - [Macaw's Windows](https://www.curseforge.com/minecraft/mc-mods/macaws-windows)
@@ -131,6 +134,7 @@ If possible, the following links will lead to the mods respective Modrinth page.
 	- must be installed on both Client and Server for full performance gain
 - [Iris Shaders](https://modrinth.com/mod/iris)
 - [Just Enough Items (JEI)](https://modrinth.com/mod/jei)
+- [LambDynamicLights](https://modrinth.com/mod/lambdynamiclights) 🆕
 - [LazyDFU](https://modrinth.com/mod/lazydfu)
 - [Legendary Tooltips](https://modrinth.com/mod/legendary-tooltips)
 - [Mod Menu](https://modrinth.com/mod/modmenu)
@@ -153,12 +157,17 @@ If possible, the following links will lead to the mods respective Modrinth page.
 	- must be installed if client version is installed
 - [AttributeFix](https://www.curseforge.com/minecraft/mc-mods/attributefix)
 - [ChoiceTheorem's Overhauled Village](https://modrinth.com/mod/ct-overhaul-village)
-    - [ChoiceTheorem's Overhauled Village - Waystone Addon](https://modrinth.com/datapack/ctov-waystone-compat)
-	- addon needed if Waystone mod is installed
+    - [ChoiceTheorem's Overhauled Village - Waystone Add-on](https://modrinth.com/datapack/ctov-waystone-compat)
+	- add-on needed if Waystone mod is installed
+    - [ChoiceTheorem's Overhauled Village - Farmer Delight Add-on](https://modrinth.com/datapack/ctov-farmers-delight-compat) 🆕
+	- add-on needed if Farmer Delight mod is installed
 - [Chunky](https://modrinth.com/plugin/chunky)
+- [Companion](https://modrinth.com/mod/companion) 🆕
 - [Crops Love Rain](https://modrinth.com/mod/crops-love-rain)
 - [Discord Integration](https://modrinth.com/plugin/dcintegration)
+- [Enchantment Lore](https://modrinth.com/mod/enchantment-lore) 🆕
 - [FabricTPA](https://modrinth.com/mod/fabrictpa)
+- [FallingTree](https://modrinth.com/mod/fallingtree) 🆕
 - [FerriteCore](https://modrinth.com/mod/ferrite-core)
 	- must be installed on both Client and Server for full performance gain
 - [Immersive Structures](https://modrinth.com/mod/immersive-structures)
@@ -166,6 +175,7 @@ If possible, the following links will lead to the mods respective Modrinth page.
 - [Lithium](https://modrinth.com/mod/lithium)
 - [Memory Leak Fix](https://modrinth.com/mod/memoryleakfix)
 - [Paxi](https://modrinth.com/mod/paxi)
+- [Server Translation API](https://www.curseforge.com/minecraft/mc-mods/server-translation-api) 🆕
 - [SleepWarp](https://modrinth.com/mod/sleep-warp)
 - [Starlight](https://modrinth.com/mod/starlight)
 - [Structory](https://www.curseforge.com/minecraft/mc-mods/structory)
@@ -207,6 +217,7 @@ If possible, the following links will lead to the mods respective Modrinth page.
 - [Botania](https://modrinth.com/mod/botania)
 - [Campanion](https://modrinth.com/mod/campanion)
 - [Capes](https://modrinth.com/mod/capes)
+- [Carry On](https://modrinth.com/mod/carry-on) 🆕
 - [Charm](https://modrinth.com/mod/charm)
 - [Charmonium](https://modrinth.com/mod/charmonium)
 - [CIT Resewn](https://modrinth.com/mod/cit-resewn)
@@ -214,7 +225,9 @@ If possible, the following links will lead to the mods respective Modrinth page.
 - [Cloth Config API](https://modrinth.com/mod/cloth-config)
 - [ChoiceTheorem's Overhauled Village](https://modrinth.com/mod/ct-overhaul-village)
     - [ChoiceTheorem's Overhauled Village - Waystone Addon](https://modrinth.com/datapack/ctov-waystone-compat)
+    - [ChoiceTheorem's Overhauled Village - Farmer Delight Add-on](https://modrinth.com/datapack/ctov-farmers-delight-compat)
 - [Chunky](https://modrinth.com/plugin/chunky)
+- [Companion](https://modrinth.com/mod/companion)
 - [Crops Love Rain](https://modrinth.com/mod/crops-love-rain)
 - [Custom Entity Models](https://modrinth.com/mod/cem)
 - [Dangerous Stone Cutter](https://modrinth.com/mod/dangerousstonecutter)
@@ -223,12 +236,14 @@ If possible, the following links will lead to the mods respective Modrinth page.
 - [Diagonal Fences](https://modrinth.com/mod/diagonal-fences)
 - [Discord Integration](https://modrinth.com/plugin/dcintegration)
 - [Ecologics](https://www.curseforge.com/minecraft/mc-mods/ecologics)
+- [Enchantment Lore](https://modrinth.com/mod/enchantment-lore)
 - [End Remastered](https://modrinth.com/mod/endrem)
 - [Entity Texture Features](https://modrinth.com/mod/entitytexturefeatures)
 - [Entity Culling](https://modrinth.com/mod/entityculling)
 - [Equipment Compare](https://modrinth.com/mod/equipment-compare)
 - [FabricTPA](https://modrinth.com/mod/fabrictpa)
 - [Falling Leaves](https://modrinth.com/mod/fallingleaves)
+- [FallingTree](https://modrinth.com/mod/fallingtree)
 - [Farmers Delight](https://modrinth.com/mod/farmers-delight-fabric)
 - [FerriteCore](https://modrinth.com/mod/ferrite-core)
 - [Forge Config API Port](https://modrinth.com/mod/forge-config-api-port)
@@ -239,6 +254,7 @@ If possible, the following links will lead to the mods respective Modrinth page.
 - [Immersive Structures](https://modrinth.com/mod/immersive-structures)
 - [Iris Shaders](https://modrinth.com/mod/iris)
 - [Just Enough Items (JEI)](https://modrinth.com/mod/jei)
+- [LambDynamicLights](https://modrinth.com/mod/lambdynamiclights) 🆕
 - [LazyDFU](https://modrinth.com/mod/lazydfu)
 - [Legendary Tooltips](https://modrinth.com/mod/legendary-tooltips)
 - [Lithium](https://modrinth.com/mod/lithium)
@@ -246,16 +262,21 @@ If possible, the following links will lead to the mods respective Modrinth page.
 - [Malum](https://modrinth.com/mod/malum-quilt)
 - Macaw's mods
     - [Macaw's Bridges](https://www.curseforge.com/minecraft/mc-mods/macaws-bridges)
+    	- [Macaw's Bridges - Oh The Biomes You'll Go](https://modrinth.com/mod/macaws-bridges-oh-the-biomes-youll-go)
     - [Macaw's Doors](https://www.curseforge.com/minecraft/mc-mods/macaws-doors)
     - [Macaw's Fences and Walls](https://www.curseforge.com/minecraft/mc-mods/macaws-fences-and-walls)
+    	- [Macaw's Fences - Oh The Biomes You'll Go](https://modrinth.com/mod/macaws-fences-oh-the-biomes-youll-go)
     - [Macaw's Paintings](https://www.curseforge.com/minecraft/mc-mods/macaws-paintings)
     - [Macaw's Paths and Pavings](https://www.curseforge.com/minecraft/mc-mods/macaws-paths-and-pavings)
+    	- [Macaw's Roofs - Oh The Biomes You'll Go](https://modrinth.com/mod/macaws-roofs-oh-the-biomes-youll-go)
     - [Macaw's Roofs](https://www.curseforge.com/minecraft/mc-mods/macaws-roofs)
     - [Macaw's Trapdoors](https://www.curseforge.com/minecraft/mc-mods/macaws-trapdoors)
     - [Macaw's Windows](https://www.curseforge.com/minecraft/mc-mods/macaws-windows)
 - [Memory Leak Fix](https://modrinth.com/mod/memoryleakfix)
+- [MidnightLib](https://modrinth.com/mod/midnightlib) 🆕
 - [Mod Menu](https://modrinth.com/mod/modmenu)
 - [MoreChatHistory](https://modrinth.com/mod/morechathistory)
+- [M.R.U](https://modrinth.com/mod/mine11lib) 🆕
 - [Naturalist](https://www.curseforge.com/minecraft/mc-mods/naturalist)
 - [No Chat Reports](https://modrinth.com/mod/no-chat-reports)
 - [Not Enough Animations](https://modrinth.com/mod/not-enough-animations)
@@ -271,6 +292,7 @@ If possible, the following links will lead to the mods respective Modrinth page.
 - [Qu Enchantments](https://modrinth.com/mod/qu-enchantments)
 - [Quilted Fabric API](https://modrinth.com/mod/qsl)
 - [Quilt Kotlin Libraries](https://modrinth.com/mod/qkl)
+- [Server Translation API](https://www.curseforge.com/minecraft/mc-mods/server-translation-api) 🆕
 - [SleepWarp](https://modrinth.com/mod/sleep-warp)
 - [Snow Under Trees](https://modrinth.com/mod/snow-under-trees-remastered)
 - [Sodium](https://modrinth.com/mod/sodium)
