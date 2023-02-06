@@ -57,7 +57,50 @@ If possible, the following links will lead to the mods respective Modrinth page.
 ------------
 
 
-> Client-Side mods, while not required in most cases, will still improve the quality of each players experience playing the modpack, including graphical and performance improvement in addition to QoL addons. Players are strongly urged to keep Client-Side mods installed unless the removal is needed to improve ones personal enjoyment 
+> Content mods are here defined as any mod that adds an item, mob, or special mechanic to the game. These mods are required for the full experience of this modpack and must be installed on both client and server to function. This list is here to act, not only as just a list of each mod, but as a resource to access each mods wiki and any additional information needed to understand and grasp the extent of each mod.
+
+<details><summary>Content Mods</summary>
+
+- [Additional Additions](https://modrinth.com/mod/addadd)
+- [Adorn](https://modrinth.com/mod/adorn)
+- [Artifacts](https://modrinth.com/mod/artifacts)
+- [BetterEnd](https://modrinth.com/mod/betterend)
+- [BetterNether](https://modrinth.com/mod/betternether)
+- [Botania](https://modrinth.com/mod/botania)
+- [Campanion](https://modrinth.com/mod/campanion)
+- [Charm](https://modrinth.com/mod/charm)
+- [Deeper and Darker](https://modrinth.com/mod/deeperdarker)
+- [Ecologics](https://www.curseforge.com/minecraft/mc-mods/ecologics)
+- [End Remastered](https://modrinth.com/mod/endrem)
+- [Farmers Delight](https://modrinth.com/mod/farmers-delight-fabric)
+- [Friends&Foes](https://modrinth.com/mod/friends-and-foes-quilt)
+- [Go Fish](https://www.curseforge.com/minecraft/mc-mods/go-fish)
+- [Lovely Snails](https://modrinth.com/mod/lovely_snails)
+- [Malum](https://modrinth.com/mod/malum-quilt)
+- Macaw's mods
+    - [Macaw's Bridges](https://www.curseforge.com/minecraft/mc-mods/macaws-bridges)
+    - [Macaw's Doors](https://www.curseforge.com/minecraft/mc-mods/macaws-doors)
+    - [Macaw's Fences and Walls](https://www.curseforge.com/minecraft/mc-mods/macaws-fences-and-walls)
+    - [Macaw's Paintings](https://www.curseforge.com/minecraft/mc-mods/macaws-paintings)
+    - [Macaw's Paths and Pavings](https://www.curseforge.com/minecraft/mc-mods/macaws-paths-and-pavings)
+    - [Macaw's Roofs](https://www.curseforge.com/minecraft/mc-mods/macaws-roofs)
+    - [Macaw's Trapdoors](https://www.curseforge.com/minecraft/mc-mods/macaws-trapdoors)
+    - [Macaw's Windows](https://www.curseforge.com/minecraft/mc-mods/macaws-windows)
+- [Naturalist](https://www.curseforge.com/minecraft/mc-mods/naturalist)
+- [Oh The Biomes You'll Go](https://modrinth.com/mod/biomesyougo)
+- [Qu Enchantments](https://modrinth.com/mod/qu-enchantments)
+- [The Graveyard](https://modrinth.com/mod/the-graveyard-fabric)
+- [Traveler's Backpack](https://www.curseforge.com/minecraft/mc-mods/travelers-backpack-fabric)
+- [Twilight Forest](https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest)
+- [Victus - Custom Hearts](https://modrinth.com/mod/victus)
+- [Windchimes](https://modrinth.com/mod/windchimes)
+- [Fabric Waystones](https://modrinth.com/mod/fwaystones)
+</details>
+
+------------
+
+
+> Client-Side mods, while not required in most cases, will still improve the quality of each players experience playing the modpack, including graphical and performance improvement in addition to QoL addons. Players are strongly urged to keep Client-Side mods installed unless the removal is needed to improve ones personal enjoyment.
 
 
 <details><summary>Client-Side Mods</summary>
@@ -75,7 +118,7 @@ If possible, the following links will lead to the mods respective Modrinth page.
 - [Capes](https://modrinth.com/mod/capes)
 - [Charm](https://modrinth.com/mod/charm)
 - [Charmonium](https://modrinth.com/mod/charmonium)
-	- [Charm](https://modrinth.com/mod/charm) is required for it to function to its fullest extend
+	- [Charm](https://modrinth.com/mod/charm) is required for it to function to its fullest extent
 - [CIT Resewn](https://modrinth.com/mod/cit-resewn)
 - [CleanCut](https://www.curseforge.com/minecraft/mc-mods/cleancut)
 - [Custom Entity Models](https://modrinth.com/mod/cem)
@@ -259,3 +302,10 @@ If possible, the following links will lead to the mods respective Modrinth page.
     - [YUNG's Bridges](https://modrinth.com/mod/yungs-bridges)
     - [YUNG's Extras](https://modrinth.com/mod/yungs-extras)
 </details>
+
+
+------------
+
+### Disclaimer:
+
+This modlist is prone to be updated from time to time, with either new additions or simple version updates for certain mods. It is still advised to not update any mod within the modpack manually unless absolutely neccessary to protect compatability between the mods.
