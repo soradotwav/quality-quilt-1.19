@@ -7,7 +7,7 @@ firstPersonEffects = true
 #Rotate trophy heads on item model. Has no performance impact at all. For those who don't like fun.
 rotateTrophyHeadsGui = true
 #Disable the nag screen when Optifine is installed.
-disableOptifineNagScreen = true
+disableOptifineNagScreen = false
 #Disables the toasts that appear when a biome is locked. Not recommended if you're not familiar with progression.
 disableLockedBiomeToasts = false
 #Renders a little check mark or x above your crosshair depending on if fed the Quest Ram that color of wool. Turn this off if you find it intrusive.
