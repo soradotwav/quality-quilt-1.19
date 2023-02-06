@@ -128,9 +128,7 @@ If possible, the following links will lead to the mods respective Modrinth page.
 - [Structory](https://www.curseforge.com/minecraft/mc-mods/structory)
 - [TerraBlender](https://www.curseforge.com/minecraft/mc-mods/terrablender-fabric)
 - [Vanilla Refresh](https://modrinth.com/datapack/vanilla-refresh)
-+ <details open>
-<summary>YUNG's Mods</summary>
-    
+- YUNG's mods  
 	- [YUNG's API](https://modrinth.com/mod/yungs-api)
     - [YUNG's Better Desert Temples](https://modrinth.com/mod/yungs-better-desert-temples)
     - [YUNG's Better Dungeons](https://modrinth.com/mod/yungs-better-dungeons)
@@ -139,9 +137,6 @@ If possible, the following links will lead to the mods respective Modrinth page.
     - [YUNG's Better Strongholds](https://modrinth.com/mod/yungs-better-strongholds)
     - [YUNG's Better Witch Huts](https://modrinth.com/mod/yungs-better-witch-huts)
     - [YUNG's Extras](https://modrinth.com/mod/yungs-extras)
-</details>
-
-
 </details>
 
 ------------
@@ -205,9 +200,7 @@ If possible, the following links will lead to the mods respective Modrinth page.
 - [Lithium](https://modrinth.com/mod/lithium)
 - [Lovely Snails](https://modrinth.com/mod/lovely_snails)
 - [Malum](https://modrinth.com/mod/malum-quilt)
-+ <details open>
-<summary>Macaw's Mods</summary>
-
+- Macaw's mods
     - [Macaw's Bridges](https://www.curseforge.com/minecraft/mc-mods/macaws-bridges)
     - [Macaw's Doors](https://www.curseforge.com/minecraft/mc-mods/macaws-doors)
     - [Macaw's Fences and Walls](https://www.curseforge.com/minecraft/mc-mods/macaws-fences-and-walls)
@@ -216,7 +209,6 @@ If possible, the following links will lead to the mods respective Modrinth page.
     - [Macaw's Roofs](https://www.curseforge.com/minecraft/mc-mods/macaws-roofs)
     - [Macaw's Trapdoors](https://www.curseforge.com/minecraft/mc-mods/macaws-trapdoors)
     - [Macaw's Windows](https://www.curseforge.com/minecraft/mc-mods/macaws-windows)
-</details>
 - [Memory Leak Fix](https://modrinth.com/mod/memoryleakfix)
 - [Mod Menu](https://modrinth.com/mod/modmenu)
 - [MoreChatHistory](https://modrinth.com/mod/morechathistory)
@@ -255,9 +247,7 @@ If possible, the following links will lead to the mods respective Modrinth page.
 - [Fabric Waystones](https://modrinth.com/mod/fwaystones)
 - [Xaeros World Map](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map)
 - [Yet Another Config Lib](https://modrinth.com/mod/yacl)
-+ <details open>
-<summary>YUNG's Mods</summary>
-    
+- YUNG's mods
 	- [YUNG's API](https://modrinth.com/mod/yungs-api)
     - [YUNG's Better Desert Temples](https://modrinth.com/mod/yungs-better-desert-temples)
     - [YUNG's Better Dungeons](https://modrinth.com/mod/yungs-better-dungeons)
@@ -266,6 +256,4 @@ If possible, the following links will lead to the mods respective Modrinth page.
     - [YUNG's Better Strongholds](https://modrinth.com/mod/yungs-better-strongholds)
     - [YUNG's Better Witch Huts](https://modrinth.com/mod/yungs-better-witch-huts)
     - [YUNG's Extras](https://modrinth.com/mod/yungs-extras)
-</details>
-
 </details>
