@@ -225,7 +225,7 @@ If possible, the following links will lead to the mods respective Modrinth page.
 - [Cloth Config API](https://modrinth.com/mod/cloth-config)
 - [ChoiceTheorem's Overhauled Village](https://modrinth.com/mod/ct-overhaul-village)
     - [ChoiceTheorem's Overhauled Village - Waystone Addon](https://modrinth.com/datapack/ctov-waystone-compat)
-    - [ChoiceTheorem's Overhauled Village - Farmer Delight Add-on](https://modrinth.com/datapack/ctov-farmers-delight-compat)
+    - [ChoiceTheorem's Overhauled Village - Farmer Delight Add-on](https://modrinth.com/datapack/ctov-farmers-delight-compat) 🆕
 - [Chunky](https://modrinth.com/plugin/chunky)
 - [Companion](https://modrinth.com/mod/companion)
 - [Crops Love Rain](https://modrinth.com/mod/crops-love-rain)
@@ -262,13 +262,13 @@ If possible, the following links will lead to the mods respective Modrinth page.
 - [Malum](https://modrinth.com/mod/malum-quilt)
 - Macaw's mods
     - [Macaw's Bridges](https://www.curseforge.com/minecraft/mc-mods/macaws-bridges)
-    	- [Macaw's Bridges - Oh The Biomes You'll Go](https://modrinth.com/mod/macaws-bridges-oh-the-biomes-youll-go)
+    	- [Macaw's Bridges - Oh The Biomes You'll Go](https://modrinth.com/mod/macaws-bridges-oh-the-biomes-youll-go) 🆕
     - [Macaw's Doors](https://www.curseforge.com/minecraft/mc-mods/macaws-doors)
     - [Macaw's Fences and Walls](https://www.curseforge.com/minecraft/mc-mods/macaws-fences-and-walls)
-    	- [Macaw's Fences - Oh The Biomes You'll Go](https://modrinth.com/mod/macaws-fences-oh-the-biomes-youll-go)
+    	- [Macaw's Fences - Oh The Biomes You'll Go](https://modrinth.com/mod/macaws-fences-oh-the-biomes-youll-go) 🆕
     - [Macaw's Paintings](https://www.curseforge.com/minecraft/mc-mods/macaws-paintings)
     - [Macaw's Paths and Pavings](https://www.curseforge.com/minecraft/mc-mods/macaws-paths-and-pavings)
-    	- [Macaw's Roofs - Oh The Biomes You'll Go](https://modrinth.com/mod/macaws-roofs-oh-the-biomes-youll-go)
+    	- [Macaw's Roofs - Oh The Biomes You'll Go](https://modrinth.com/mod/macaws-roofs-oh-the-biomes-youll-go) 🆕
     - [Macaw's Roofs](https://www.curseforge.com/minecraft/mc-mods/macaws-roofs)
     - [Macaw's Trapdoors](https://www.curseforge.com/minecraft/mc-mods/macaws-trapdoors)
     - [Macaw's Windows](https://www.curseforge.com/minecraft/mc-mods/macaws-windows)
