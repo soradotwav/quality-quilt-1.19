@@ -136,6 +136,7 @@ If possible, the following links will lead to the mods respective Modrinth page.
     - [YUNG's Better Ocean Monuments](https://modrinth.com/mod/yungs-better-ocean-monuments)
     - [YUNG's Better Strongholds](https://modrinth.com/mod/yungs-better-strongholds)
     - [YUNG's Better Witch Huts](https://modrinth.com/mod/yungs-better-witch-huts)
+    - [YUNG's Bridges](https://modrinth.com/mod/yungs-bridges)
     - [YUNG's Extras](https://modrinth.com/mod/yungs-extras)
 </details>
 
@@ -255,5 +256,6 @@ If possible, the following links will lead to the mods respective Modrinth page.
     - [YUNG's Better Ocean Monuments](https://modrinth.com/mod/yungs-better-ocean-monuments)
     - [YUNG's Better Strongholds](https://modrinth.com/mod/yungs-better-strongholds)
     - [YUNG's Better Witch Huts](https://modrinth.com/mod/yungs-better-witch-huts)
+    - [YUNG's Bridges](https://modrinth.com/mod/yungs-bridges)
     - [YUNG's Extras](https://modrinth.com/mod/yungs-extras)
 </details>
