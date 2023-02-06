@@ -43,11 +43,111 @@ You need [Java 17 or higher](https://prismlauncher.org/wiki/getting-started/inst
 6. Launch the newly installed profile
 
 7. If you see a black Mojang loading screen you've installed everything correctly!
-## List of all Mods
 
-This list is structured alphabetically with any notable information for each mod attached to it in addition to its links.
+## The Mods
+
+These lists is structured alphabetically with any notable information for each mod attached to it in addition to its links. Furthermore, multiple lists were created for both purely client-side and purely server-side mods in addition to the full modlist. Any mod only present in the full modlist is required on both client and server to function. 
+
+Lastly, while some server-side mods can also be installed on the client for the same effect, the server-side mods will be treated for either an online server or a singleplayer "server" for the sake of clarity within the following lists.
 
 If possible, the following links will lead to the mods respective Modrinth page. If a Modrinth page does not exist, or is not up to date, the link will lead to Curseforge or any other site the mod is primarily hosted on.
+
+
+
+------------
+
+
+> Client-Side mods, while not required in most cases, will still improve the quality of each players experience playing the modpack, including graphical and performance improvement in addition to QoL addons. Players are strongly urged to keep Client-Side mods installed unless the removal is needed to improve ones personal enjoyment 
+
+
+<details><summary>Client-Side Mods</summary>
+
+- [3D Skin Layers](https://modrinth.com/mod/3dskinlayers)
+- [Advancement Plaques](https://modrinth.com/mod/advancement-plaques)
+- [Animatica](https://modrinth.com/mod/animatica)
+- [AppleSkin](https://modrinth.com/mod/appleskin)
+	- must be installed on both client and server to function properly
+- [Better Advancements](https://www.curseforge.com/minecraft/mc-mods/better-advancements)
+- [BetterF3](https://modrinth.com/mod/betterf3)
+- [Better Mount HUD](https://modrinth.com/mod/better-mount-hud)
+- [Better Third Person](https://modrinth.com/mod/better-third-person)
+- [Blur](https://modrinth.com/mod/blur-fabric)
+- [Capes](https://modrinth.com/mod/capes)
+- [Charm](https://modrinth.com/mod/charm)
+- [Charmonium](https://modrinth.com/mod/charmonium)
+	- [Charm](https://modrinth.com/mod/charm) is required for it to function to its fullest extend
+- [CIT Resewn](https://modrinth.com/mod/cit-resewn)
+- [CleanCut](https://www.curseforge.com/minecraft/mc-mods/cleancut)
+- [Custom Entity Models](https://modrinth.com/mod/cem)
+- [Dark Loading Screen](https://modrinth.com/mod/dark-loading-screen)
+- [Entity Texture Features](https://modrinth.com/mod/entitytexturefeatures)
+- [Entity Culling](https://modrinth.com/mod/entityculling)
+- [Equipment Compare](https://modrinth.com/mod/equipment-compare)
+- [Falling Leaves](https://modrinth.com/mod/fallingleaves)
+- [FerriteCore](https://modrinth.com/mod/ferrite-core)
+	- must be installed on both Client and Server for full performance gain
+- [Iris Shaders](https://modrinth.com/mod/iris)
+- [Just Enough Items (JEI)](https://modrinth.com/mod/jei)
+- [LazyDFU](https://modrinth.com/mod/lazydfu)
+- [Legendary Tooltips](https://modrinth.com/mod/legendary-tooltips)
+- [Mod Menu](https://modrinth.com/mod/modmenu)
+- [MoreChatHistory](https://modrinth.com/mod/morechathistory)
+- [Not Enough Animations](https://modrinth.com/mod/not-enough-animations)
+- [Ok Zoomer](https://modrinth.com/mod/ok-zoomer)
+- [Presence Footsteps](https://modrinth.com/mod/presence-footsteps)
+- [Sodium](https://modrinth.com/mod/sodium)
+- [Starlight](https://modrinth.com/mod/starlight)
+- [Xaeros World Map](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map)
+</details>
+
+------------
+
+> Server-Side mods, while not required in most cases, will still improve the quality of each players experience playing the modpack, including structures, world generation, performance improvements and compatability. Players are strongly urged to keep Server-Side mods installed.
+
+<details><summary>Server-Side Mods</summary>
+
+- [AppleSkin](https://modrinth.com/mod/appleskin)
+	- must be installed if client version is installed
+- [AttributeFix](https://www.curseforge.com/minecraft/mc-mods/attributefix)
+- [ChoiceTheorem's Overhauled Village](https://modrinth.com/mod/ct-overhaul-village)
+    - [ChoiceTheorem's Overhauled Village - Waystone Addon](https://modrinth.com/datapack/ctov-waystone-compat)
+	- addon needed if Waystone mod is installed
+- [Chunky](https://modrinth.com/plugin/chunky)
+- [Crops Love Rain](https://modrinth.com/mod/crops-love-rain)
+- [Discord Integration](https://modrinth.com/plugin/dcintegration)
+- [FabricTPA](https://modrinth.com/mod/fabrictpa)
+- [FerriteCore](https://modrinth.com/mod/ferrite-core)
+	- must be installed on both Client and Server for full performance gain
+- [Immersive Structures](https://modrinth.com/mod/immersive-structures)
+- [LazyDFU](https://modrinth.com/mod/lazydfu)
+- [Lithium](https://modrinth.com/mod/lithium)
+- [Memory Leak Fix](https://modrinth.com/mod/memoryleakfix)
+- [Paxi](https://modrinth.com/mod/paxi)
+- [SleepWarp](https://modrinth.com/mod/sleep-warp)
+- [Starlight](https://modrinth.com/mod/starlight)
+- [Structory](https://www.curseforge.com/minecraft/mc-mods/structory)
+- [TerraBlender](https://www.curseforge.com/minecraft/mc-mods/terrablender-fabric)
+- [Vanilla Refresh](https://modrinth.com/datapack/vanilla-refresh)
++ <details open>
+<summary>YUNG's Mods</summary>
+    
+	- [YUNG's API](https://modrinth.com/mod/yungs-api)
+    - [YUNG's Better Desert Temples](https://modrinth.com/mod/yungs-better-desert-temples)
+    - [YUNG's Better Dungeons](https://modrinth.com/mod/yungs-better-dungeons)
+    - [YUNG's Better Mineshafts](https://modrinth.com/mod/yungs-better-mineshafts)
+    - [YUNG's Better Ocean Monuments](https://modrinth.com/mod/yungs-better-ocean-monuments)
+    - [YUNG's Better Strongholds](https://modrinth.com/mod/yungs-better-strongholds)
+    - [YUNG's Better Witch Huts](https://modrinth.com/mod/yungs-better-witch-huts)
+    - [YUNG's Extras](https://modrinth.com/mod/yungs-extras)
+</details>
+
+
+</details>
+
+------------
+
+
+<details open><summary>Full Modlist</summary>
 
 - [3D Skin Layers](https://modrinth.com/mod/3dskinlayers)
 - [Additional Additions](https://modrinth.com/mod/addadd)
@@ -74,7 +174,7 @@ If possible, the following links will lead to the mods respective Modrinth page.
 - [CleanCut](https://www.curseforge.com/minecraft/mc-mods/cleancut)
 - [Cloth Config API](https://modrinth.com/mod/cloth-config)
 - [ChoiceTheorem's Overhauled Village](https://modrinth.com/mod/ct-overhaul-village)
-- [ChoiceTheorem's Overhauled Village - Waystone Addon](https://modrinth.com/datapack/ctov-waystone-compat)
+    - [ChoiceTheorem's Overhauled Village - Waystone Addon](https://modrinth.com/datapack/ctov-waystone-compat)
 - [Chunky](https://modrinth.com/plugin/chunky)
 - [Crops Love Rain](https://modrinth.com/mod/crops-love-rain)
 - [Custom Entity Models](https://modrinth.com/mod/cem)
@@ -105,7 +205,9 @@ If possible, the following links will lead to the mods respective Modrinth page.
 - [Lithium](https://modrinth.com/mod/lithium)
 - [Lovely Snails](https://modrinth.com/mod/lovely_snails)
 - [Malum](https://modrinth.com/mod/malum-quilt)
-- Macaw's Mods 
++ <details open>
+<summary>Macaw's Mods</summary>
+
     - [Macaw's Bridges](https://www.curseforge.com/minecraft/mc-mods/macaws-bridges)
     - [Macaw's Doors](https://www.curseforge.com/minecraft/mc-mods/macaws-doors)
     - [Macaw's Fences and Walls](https://www.curseforge.com/minecraft/mc-mods/macaws-fences-and-walls)
@@ -114,6 +216,7 @@ If possible, the following links will lead to the mods respective Modrinth page.
     - [Macaw's Roofs](https://www.curseforge.com/minecraft/mc-mods/macaws-roofs)
     - [Macaw's Trapdoors](https://www.curseforge.com/minecraft/mc-mods/macaws-trapdoors)
     - [Macaw's Windows](https://www.curseforge.com/minecraft/mc-mods/macaws-windows)
+</details>
 - [Memory Leak Fix](https://modrinth.com/mod/memoryleakfix)
 - [Mod Menu](https://modrinth.com/mod/modmenu)
 - [MoreChatHistory](https://modrinth.com/mod/morechathistory)
@@ -152,8 +255,10 @@ If possible, the following links will lead to the mods respective Modrinth page.
 - [Fabric Waystones](https://modrinth.com/mod/fwaystones)
 - [Xaeros World Map](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map)
 - [Yet Another Config Lib](https://modrinth.com/mod/yacl)
-- YUNG's Mods
-    - [YUNG's API](https://modrinth.com/mod/yungs-api)
++ <details open>
+<summary>YUNG's Mods</summary>
+    
+	- [YUNG's API](https://modrinth.com/mod/yungs-api)
     - [YUNG's Better Desert Temples](https://modrinth.com/mod/yungs-better-desert-temples)
     - [YUNG's Better Dungeons](https://modrinth.com/mod/yungs-better-dungeons)
     - [YUNG's Better Mineshafts](https://modrinth.com/mod/yungs-better-mineshafts)
@@ -161,4 +266,6 @@ If possible, the following links will lead to the mods respective Modrinth page.
     - [YUNG's Better Strongholds](https://modrinth.com/mod/yungs-better-strongholds)
     - [YUNG's Better Witch Huts](https://modrinth.com/mod/yungs-better-witch-huts)
     - [YUNG's Extras](https://modrinth.com/mod/yungs-extras)
+</details>
 
+</details>
