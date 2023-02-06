@@ -46,9 +46,9 @@ You need [Java 17 or higher](https://prismlauncher.org/wiki/getting-started/inst
 
 ## The Mods
 
-These lists are structured alphabetically with any notable information for each mod attached to them in addition to its links. Furthermore, multiple lists were created for both purely client-side and purely server-side mods in addition to the full modlist. Any mod only present in the full modlist is required on both client and server to function. 
+These lists are structured alphabetically with any notable information for each mod attached to them in addition to its link. Furthermore, multiple lists were created for both purely client-side and purely server-side mods in addition to the full modlist. Any mod only present in the full modlist is required on both client and server to function. 
 
-Lastly, while some server-side mods can also be installed on the client for the same effect, the server-side mods will be treated for either an online server or a singleplayer "server" for the sake of clarity within the following lists.
+Lastly, while some server-side mods can also be installed on the client for the same effect, the server-side mods will be treated as either an online server or a singleplayer (localhost) "server" for the sake of comprehensiveness within the following lists.
 
 If possible, the following links will lead to the mods respective Modrinth page. If a Modrinth page does not exist, or is not up to date, the link will lead to Curseforge or any other site the mod is primarily hosted on.
 
