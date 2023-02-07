@@ -16,11 +16,17 @@ For macOS and Linux [you need Java](https://adoptium.net) to run the Quint insta
 
 2. Open Minecraft Launcher, click Installations and then click 📂 on the Quilt installation
 
-3. Go to Releases and download the latest *Quality-Quilt-1.x.x-manual*.zip file
+3. Go to Releases and download the latest *Quality-Quilt-1.x.x-manual*-___.zip file
+	
+	3.1 You are able to choose between two different versions to download, either ***Quality-Quilt-1.x.x-manual-client.zip*** or ***Quality-Quilt-1.x.x-manual-full.zip***. The choice of which to pick depends on the usage of the modpack. 
+	
+	If you or someone you know is hosting a server for the modpack you can simply download and proceed with the ***-client.zip***. file. 
+	
+	If you are simply playing by yourself in a singleplayer world or are unsure, download and proceed with the ***-full.zip*** file.
 
 4. Open the Zip file, go to *Quality Quilt-1.x.x* and into the *.minecraft* folder
 
-5. Copy all folders from zip's *.minecraft* folder to your *.minecraft* folder; if asked - replace the files
+5. Copy all contents from zip's *.minecraft* folder to your *.minecraft* folder; if asked - replace the files
 
 6. Launch the installed Quilt profile
 
@@ -30,7 +36,13 @@ For macOS and Linux [you need Java](https://adoptium.net) to run the Quint insta
 
 You need [Java 17 or higher](https://prismlauncher.org/wiki/getting-started/installing-java/) to play the game.
 
-1. Go to Releases and download the latest *Quality-Quilt-1.x.x-prism*.zip file
+1. Go to Releases and download the latest *Quality-Quilt-1.x.x-prism-___*.zip file
+	
+	1.1 You are able to choose between two different versions to download, either ***Quality-Quilt-1.x.x-prism-client.zip*** or ***Quality-Quilt-1.x.x-prism-full.zip***. The choice of which to pick depends on the usage of the modpack. 
+	
+	If you or someone you know is hosting a server for the modpack you can simply download and proceed with the ***-client.zip***. file. 
+	
+	If you are simply playing by yourself in a singleplayer world or are unsure, download and proceed with the ***-full.zip*** file.
 
 2. Open Prism Launcher and click `Add Instance`.
 
@@ -40,9 +52,51 @@ You need [Java 17 or higher](https://prismlauncher.org/wiki/getting-started/inst
 
 5. Change your prefered Java settings and rename the Instance (optional) 
 
-6. Launch the newly installed profile
+6. Launch the newly installed instance
 
-7. If you see a black Mojang loading screen you've installed everything correctly!
+7. If you see a black Mojang loading screen you've updated everything correctly!
+
+## Installing Updates
+
+### Minecraft Launcher (vanilla)
+
+1. Open Minecraft Launcher, click Installations and then click 📂 on the Quilt installation
+
+2. Go to Releases and download the latest *Quality-Quilt-1.x.x-update*-___.zip file
+	
+	2.1 You are able to choose between two different versions to download, either ***Quality-Quilt-1.x.x-update-client.zip*** or ***Quality-Quilt-1.x.x-update-full.zip***. The choice of which to pick depends on the usage of the modpack. 
+	
+	If you or someone you know is hosting a server for the modpack you can simply download and proceed with the ***-client.zip***. file. 
+	
+	If you are simply playing by yourself in a singleplayer world or are unsure, download and proceed with the ***-full.zip*** file.
+
+3. Open the Zip file, go to *Quality Quilt-1.x.x Update* and into the *.minecraft* folder
+
+4. Copy all contents from zip's *.minecraft* folder to your *.minecraft* folder; if asked - replace the files
+
+5. Launch the installed Quilt profile
+
+6. If you see a black Mojang loading screen you've installed everything correctly!
+
+### [Prism Launcher](https://prismlauncher.org)
+
+1. Go to Releases and download the latest *Quality-Quilt-1.x.x-update*-___.zip file
+	
+	1.1 You are able to choose between two different versions to download, either ***Quality-Quilt-1.x.x-update-client.zip*** or ***Quality-Quilt-1.x.x-update-full.zip***. The choice of which to pick depends on the usage of the modpack. 
+	
+	If you or someone you know is hosting a server for the modpack you can simply download and proceed with the ***-client.zip***. file. 
+	
+	If you are simply playing by yourself in a singleplayer world or are unsure, download and proceed with the ***-full.zip*** file.
+
+2. Open the Zip file, go to *Quality Quilt-1.x.x Update*
+
+3. Open Prism Launcher, right-click your Quality Quint Instance and click on `Folder`
+
+4. Copy all contents within the *Quality Quilt-1.x.x Update* folder into the folder you just opened; if asked - replace the files
+
+5. Launch your *Quality Quint 1.x.x* instance
+
+6. If you see a black Mojang loading screen you've installed everything correctly!
 
 ## The Mods
 
