@@ -1,5 +1,5 @@
 
-# Quality Quilt 1.19
+![Quality Quilt Logo](https://i.ibb.co/Dfk82xX/Minecraft-Quality-Quilt-Logo.jpg)
 
 A fully functional 1.19.2 Modpack containing high quality mods running on the [Quilt](https://quiltmc.org/en/) mod-loader.
 
