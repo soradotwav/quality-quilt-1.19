@@ -10,7 +10,7 @@ A fully functional 1.19.2 Modpack containing high quality mods running on the [Q
 
 For macOS and Linux [you need Java](https://adoptium.net) to run the Quint installer.
 
-**WARNING** If this method is used, your configs and previously installed mods will be overwritten. Only use on a fresh install.
+**WARNING** If this method is used, your configs and previously installed mods will be overwritten. Only use on a fresh install to prevent data loss.
 
 1. Download and install the [Quilt Loader](https://quiltmc.org/en/install/client/) version 0.17.11 for Minecraft 1.19.2 using the installer
 
