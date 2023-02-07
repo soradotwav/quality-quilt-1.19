@@ -31,7 +31,7 @@ You need [Java 17 or higher](https://adoptium.net) to play the game; don't forge
 
 <details><summary><b><i>Open to view installation steps</i></b></summary>
 
-1. Download the newest release of the Modpack on [Modrinth](https://modrinth.com/mod/quality-quilt-1.19) and open the downloaded file
+1. Download the newest release of the Modpack on [Modrinth](https://modrinth.com/modpack/quality-quilt-1.19) and open the downloaded file
 
 	1. If this does not automatically open the install window, proceed with the following, otherwise skip to step 2. 
 	
