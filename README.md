@@ -1,49 +1,67 @@
 
-![Quality Quilt Logo](https://i.ibb.co/Dfk82xX/Minecraft-Quality-Quilt-Logo.jpg)
+![Quality Quilt Logo](https://github.com/soradotwav/quality-quilt-1.19/blob/main/Minecraft%20Quality%20Quilt%20Logo.png?raw=true)
 
 
 A fully functional 1.19.2 Modpack containing high quality mods running on the [Quilt](https://quiltmc.org/en/) mod-loader.
 
 
-## Installation
+# Installation
 
-### Minecraft Launcher (vanilla)
+You need [Java 17 or higher](https://adoptium.net) to play the game; don't forget to install it before proceeding with any of the following launchers.
 
-For macOS and Linux [you need Java](https://adoptium.net) to run the Quint installer.
+## [Prism Launcher](https://prismlauncher.org) 
 
-**WARNING** If this method is used, your configs and previously installed mods will be overwritten. Only use on a fresh install to prevent data loss.
+> Currently there are multiple different ways, all varying slightly in execution, through which you are able to install this modpack using the prism launcher. While all of these methods are proven to work, we advise following the first method first and if it does not work continueing with trying the methods cascading down.
 
-1. Download and install the [Quilt Loader](https://quiltmc.org/en/install/client/) version 0.17.11 for Minecraft 1.19.2 using the installer
+### Prism Launcher - Native Install
 
-2. Open Minecraft Launcher, click Installations and then click 📂 on the Quilt installation
+1. Open Prism Launcher and click `Add Instance`
 
-3. Go to Releases and download the latest *Quality-Quilt-1.x.x-manual*-___.zip file
+2. Navigate to the `Modrinth` tab in the list on the left side of the newly opened window
+
+3. Search for `Quality Quilt 1.19` in the search bar, click on the first result and click `Ok`
+
+4. Wait for the Modpack and all of its files to finish downloading
+	1. This might take a long time depending on your internet (~350 MB of mod files)
+5. Once the progression bar has disappeared and your new profile appeared you're ready to launch the game
+
+6. If you see a dark Mojang screen when launching you correctly installed the modpack!
+
+### Prism Launcher - Modrinth Modpack Install
+
+<details><summary><b><i>Open to view installation steps</i></b></summary>
+
+1. Download the newest release of the Modpack on [Modrinth](https://modrinth.com/mod/quality-quilt-1.19) and open the downloaded file
+
+	1. If this does not automatically open the install window, proceed with the following, otherwise skip to step 2. 
 	
-	3.1 You are able to choose between two different versions to download, either ***Quality-Quilt-1.x.x-manual-client.zip*** or ***Quality-Quilt-1.x.x-manual-full.zip***. The choice of which to pick depends on the usage of the modpack. 
+	2. Open Prism Launcher and click `Add Instance`
+
+	3. Select `Import from zip`
 	
-	If you or someone you know is hosting a server for the modpack you can simply download and proceed with the ***-client.zip***. file. 
-	
-	If you are simply playing by yourself in a singleplayer world or are unsure, download and proceed with the ***-full.zip*** file.
+	4. Click `Browse` and select the downloaded file
 
-4. Open the Zip file, go to *Quality Quilt-1.x.x* and into the *.minecraft* folder
+2. Give your new instance your desired name
 
-5. Copy all contents from zip's *.minecraft* folder to your *.minecraft* folder; if asked - replace the files
+3. Change your prefered Java settings and rename the Instance (optional) 
 
-6. Launch the installed Quilt profile
+4. Press `Ok` and launch the newly installed instance
 
-7. If you see a black Mojang loading screen you've installed everything correctly!
+5. If you see a black Mojang loading screen you've updated everything correctly!
 
-### [Prism Launcher](https://prismlauncher.org)
+</details>
 
-You need [Java 17 or higher](https://prismlauncher.org/wiki/getting-started/installing-java/) to play the game.
+### Prism Launcher - Zip Install
 
-1. Go to Releases and download the latest *Quality-Quilt-1.x.x-prism-___*.zip file
-	
-	1.1 You are able to choose between two different versions to download, either ***Quality-Quilt-1.x.x-prism-client.zip*** or ***Quality-Quilt-1.x.x-prism-full.zip***. The choice of which to pick depends on the usage of the modpack. 
-	
-	If you or someone you know is hosting a server for the modpack you can simply download and proceed with the ***-client.zip***. file. 
-	
-	If you are simply playing by yourself in a singleplayer world or are unsure, download and proceed with the ***-full.zip*** file.
+<details><summary><b><i>Open to view installation steps</i></b></summary>
+
+1. Go to `Releases` on our [Github](https://github.com/soradotwav/quality-quilt-1.19) and download the latest Quality-Quilt-1.x.x-prism-___.zip file
+
+	1. You are able to choose between two different versions to download, either Quality-Quilt-1.x.x-prism-client.zip or Quality-Quilt-1.x.x-prism-full.zip. The choice of which to pick depends on the usage of the modpack.
+
+	If you or someone you know is hosting a server for the modpack you can simply download and proceed with the -client.zip. file.
+
+	If you are simply playing by yourself in a singleplayer world or are unsure, download and proceed with the -full.zip file.
 
 2. Open Prism Launcher and click `Add Instance`.
 
@@ -57,15 +75,89 @@ You need [Java 17 or higher](https://prismlauncher.org/wiki/getting-started/inst
 
 7. If you see a black Mojang loading screen you've updated everything correctly!
 
-## Installing Updates
+</details>
 
-### Minecraft Launcher (vanilla)
+## Minecraft Launcher (Vanilla Launcher)
+
+### Minecraft Launcher - Manual
+
+For macOS and Linux [you need Java](https://adoptium.net) to run the Quilt installer.
+
+**WARNING** If this method is used, your configs and previously installed mods will be overwritten. This method is not recommended and should only be used if you are not able to use any other launcher. 
+
+1. Download and install the [Quilt Loader](https://quiltmc.org/en/install/client/) version 0.17.11 for Minecraft 1.19.2 using the installer
+
+2. Open Minecraft Launcher, click Installations and then click 📂 on the Quilt installation
+
+3. Go to `Releases` on our [Github](https://github.com/soradotwav/quality-quilt-1.19) and download the latest *Quality-Quilt-1.x.x-manual*-___.zip file
+	
+	1. You are able to choose between two different versions to download, either ***Quality-Quilt-1.x.x-manual-client.zip*** or ***Quality-Quilt-1.x.x-manual-full.zip***. The choice of which to pick depends on the usage of the modpack. 
+	
+	If you or someone you know is hosting a server for the modpack you can simply download and proceed with the ***-client.zip***. file. 
+	
+	If you are simply playing by yourself in a singleplayer world or are unsure, download and proceed with the ***-full.zip*** file.
+
+4. Open the Zip file, go to *Quality Quilt-1.x.x* and into the *.minecraft* folder
+
+5. Copy all contents from zip's *.minecraft* folder to your *.minecraft* folder; if asked - replace the files
+
+6. Launch the installed Quilt profile
+
+7. If you see a black Mojang loading screen you've installed everything correctly!
+
+# Installing Updates
+
+Depending on the Launcher used to install and play the modpack there are different methods to update the modpack to the newest version. While updating regularly is not required to enjoy the modpack, it is still recommended to do so from time to time to get regular additions of features and content to improve the gameplay experience further.
+
+## [Prism Launcher](https://prismlauncher.org)
+
+> Currently there are two ways, outside of simply reinstalling the modpack, to update the modpack in prism launcher. While all of these methods are proven to work, we advise following the first method first and if it does not work continueing with trying the methods cascading down.
+
+### Prism Launcher - Native Update
+
+1. Open Prism Launcher, right-click your Quality Quilt Instance and click on `Edit...`
+
+2. Navigate to the `Modrinth` tab in the list on the left of the newly opened window
+
+3. Choose your desired version to update to next to `Update to version` (or leave as is to update to the latest version) and click `Update Pack`
+
+	1. It will now download all of the new files to update your instance. The duration of this may very depending on your internet speed but should not take too long.
+
+4. Once done downloading, choose `Yes` to update the instance name to include the updated version number
+
+5. Now you're done updating and can launch your instance!
+
+### Prism Launcher - Manual Update
+
+<details><summary><b><i>Open to view steps to update Quality Quilt</i></b></summary>
+
+1. Go to `Releases` on our [Github](https://github.com/soradotwav/quality-quilt-1.19) and download the latest *Quality-Quilt-1.x.x-update*-___.zip file
+	
+	1. You are able to choose between two different versions to download, either ***Quality-Quilt-1.x.x-update-client.zip*** or ***Quality-Quilt-1.x.x-update-full.zip***. The choice of which to pick depends on the usage of the modpack. 
+	
+	If you or someone you know is hosting a server for the modpack you can simply download and proceed with the ***-client.zip***. file. 
+	
+	If you are simply playing by yourself in a singleplayer world or are unsure, download and proceed with the ***-full.zip*** file.
+
+2. Open the Zip file, go to *Quality Quilt-1.x.x Update*
+
+3. Open Prism Launcher, right-click your Quality Quilt Instance and click on `Folder`
+
+4. Copy all contents within the *Quality Quilt-1.x.x Update* folder into the folder you just opened; if asked - replace the files
+
+5. Launch your *Quality Quilt 1.x.x* instance
+
+6. If you see a black Mojang loading screen you've installed everything correctly!
+
+</details>
+
+## Minecraft Launcher (Vanilla Launcher)
 
 1. Open Minecraft Launcher, click Installations and then click 📂 on the Quilt installation
 
-2. Go to Releases and download the latest *Quality-Quilt-1.x.x-update*-___.zip file
+2. Go to `Releases` on our [Github](https://github.com/soradotwav/quality-quilt-1.19) and download the latest *Quality-Quilt-1.x.x-update*-___.zip file
 	
-	2.1 You are able to choose between two different versions to download, either ***Quality-Quilt-1.x.x-update-client.zip*** or ***Quality-Quilt-1.x.x-update-full.zip***. The choice of which to pick depends on the usage of the modpack. 
+	1. You are able to choose between two different versions to download, either ***Quality-Quilt-1.x.x-update-client.zip*** or ***Quality-Quilt-1.x.x-update-full.zip***. The choice of which to pick depends on the usage of the modpack. 
 	
 	If you or someone you know is hosting a server for the modpack you can simply download and proceed with the ***-client.zip***. file. 
 	
@@ -79,27 +171,11 @@ You need [Java 17 or higher](https://prismlauncher.org/wiki/getting-started/inst
 
 6. If you see a black Mojang loading screen you've installed everything correctly!
 
-### [Prism Launcher](https://prismlauncher.org)
+# Server Setup
 
-1. Go to Releases and download the latest *Quality-Quilt-1.x.x-update*-___.zip file
-	
-	1.1 You are able to choose between two different versions to download, either ***Quality-Quilt-1.x.x-update-client.zip*** or ***Quality-Quilt-1.x.x-update-full.zip***. The choice of which to pick depends on the usage of the modpack. 
-	
-	If you or someone you know is hosting a server for the modpack you can simply download and proceed with the ***-client.zip***. file. 
-	
-	If you are simply playing by yourself in a singleplayer world or are unsure, download and proceed with the ***-full.zip*** file.
+Coming soon.
 
-2. Open the Zip file, go to *Quality Quilt-1.x.x Update*
-
-3. Open Prism Launcher, right-click your Quality Quint Instance and click on `Folder`
-
-4. Copy all contents within the *Quality Quilt-1.x.x Update* folder into the folder you just opened; if asked - replace the files
-
-5. Launch your *Quality Quint 1.x.x* instance
-
-6. If you see a black Mojang loading screen you've installed everything correctly!
-
-## The Mods
+# The Mods
 
 These lists are structured alphabetically with any notable information for each mod attached to them in addition to its link. Furthermore, multiple lists were created for both purely client-side and purely server-side mods in addition to the full modlist. Any mod only present in the full modlist is required on both client and server to function. 
 
