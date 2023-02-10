@@ -52,32 +52,6 @@ You need [Java 17 or higher](https://adoptium.net) to play the game; don't forge
 
 </details>
 
-### Prism Launcher - Zip Install
-
-<details><summary><b><i>Open to view installation steps</i></b></summary>
-
-1. Go to `Releases` on our [Github](https://github.com/soradotwav/quality-quilt-1.19) and download the latest Quality-Quilt-1.x.x-prism-___.zip file
-
-	1. You are able to choose between two different versions to download, either Quality-Quilt-1.x.x-prism-client.zip or Quality-Quilt-1.x.x-prism-full.zip. The choice of which to pick depends on the usage of the modpack.
-
-	If you or someone you know is hosting a server for the modpack you can simply download and proceed with the -client.zip. file.
-
-	If you are simply playing by yourself in a singleplayer world or are unsure, download and proceed with the -full.zip file.
-
-2. Open Prism Launcher and click `Add Instance`.
-
-3. Select `Import from zip`
-
-4. Click browse and select the downloaded Zip file
-
-5. Change your prefered Java settings and rename the Instance (optional) 
-
-6. Launch the newly installed instance
-
-7. If you see a black Mojang loading screen you've updated everything correctly!
-
-</details>
-
 ## Minecraft Launcher (Vanilla Launcher)
 
 ### Minecraft Launcher - Manual
